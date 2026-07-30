@@ -1,2 +1,3 @@
-# note_of_machine_learning_for_physicists
+# note of machine learning for physicists
+
 my study notes of machine learning for physicists
